@@ -1,7 +1,7 @@
 {
   "name": "exceptions",
   "version": "0.0.1",
-  "description": "A simple bot that can notify youtube live stream.",
+  "description": "A simple bot that can notify youtube live streams.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
