@@ -1,0 +1,23 @@
+{
+  "name": "exceptions",
+  "version": "0.0.1",
+  "description": "A simple bot that can notify youtube live stream.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "cheerio": "^0.22.0",
+    "discord.js": "^12.2.0",
+    "http-proxy-agent": "^4.0.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": []
+}
